@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MoodTracker</string>
+    <string name="smiley_image_description">Smiley</string>
+    <string name="new_note">Create a new note</string>
+    <string name="history_icon">Check history</string>
+    <string name="button">Press for text</string>
+    <string name="add_your_comments">Add your comments!</string>
+    <string name="comment">Comment</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="mood_history_1">One day ago</string>
+    <string name="mood_history_2">Two days ago</string>
+    <string name="mood_history_3">Three days ago</string>
+    <string name="mood_history_4">Four days ago</string>
+    <string name="mood_history_5">Five days ago</string>
+    <string name="mood_history_6">Six days ago</string>
+    <string name="mood_history_7">One week ago</string>
+</resources>
